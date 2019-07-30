@@ -17,3 +17,4 @@ ideas = Idea.create(
       body: "that sells slices that are exactly 90 degrees called “Pie-Thagorous."
     }
   ])
+
